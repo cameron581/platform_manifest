@@ -377,10 +377,10 @@
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
-  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="gh" revision="cm-10.2" />
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-10.2" />
 
   <!-- New Additions for Illusion -->
-  <project path="external/Focal" name="CyanogenMod/android_external_Focal" remote="gh" revision="cm-10.2" />
+  <project path="external/Focal" name="CyanogenMod/android_external_Focal" remote="github" revision="cm-10.2" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-10.2" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="cm-10.2" />
   <project path="packages/apps/FileManager" name="IllusionProject/android_packages_apps_FileManager" remote="github" revision="jb" />

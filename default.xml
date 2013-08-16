@@ -23,10 +23,6 @@
   <project path="dalvik" name="SlimRoms/android_dalvik" remote="github" revision="jb4.3" />
   <project path="development" name="SlimRoms/android_development" remote="github" revision="jb4.3" />
   <project path="device/common" name="SlimRoms/device_common" remote="github" revision="jb4.3" />
-  <project path="device/samsung/d2-common" name="IllusionProject/android_device_samsung_d2-common" remote="github" revision="jb" />
-  <project path="device/samsung/d2tmo" name="IllusionProject/android_device_samsung_d2tmo" remote="github" revision="jb" />
-  <project path="device/samsung/jf-common" name="IllusionProject/android_device_samsung_jf-common" remote="github" revision="jb" />
-  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-10.2" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -237,25 +233,17 @@
   <project path="hardware/libhardware_legacy" name="SlimRoms/hardware_libhardware_legacy" remote="github" revision="jb4.3" />
   <project path="hardware/msm7k" name="SlimRoms/hardware_msm7k" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="jb4.3" />
-  <project path="hardware/qcom/audio-caf" name="SlimRoms/hardware_qcom_audio-caf" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/bt" name="SlimRoms/hardware_qcom_bt" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="jb4.3" />
-  <project path="hardware/qcom/display-caf" name="SlimRoms/hardware_qcom_displacaf" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/gps" name="SlimRoms/hardware_qcom_gps" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" />
   <project path="hardware/qcom/media" name="SlimRoms/hardware_qcom_media" remote="github" revision="jb4.3" />
-  <project path="hardware/qcom/media-caf" name="SlimRoms/hardware_qcom_media-caf" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
   <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="SlimRoms/hardware_ril" remote="github" revision="jb4.3" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
-  <project path="hardware/ti/omap3" name="SlimRoms/hardware_ti_omap3" remote="github" revision="jb4.3" />
-  <project path="hardware/ti/omap4xxx" name="SlimRoms/hardware_ti_omap4xxx" remote="github" revision="jb4.3" />
-  <project path="hardware/ti/wlan" name="SlimRoms/hardware_ti_wlan" remote="github" revision="jb4.3" />
-  <project path="hardware/ti/wpan" name="SlimRoms/hardware_ti_wpan" remote="github" revision="jb4.3" />
-  <project path="kernel/samsung/d2" name="IllusionProject/android_kernel_samsung_d2" remote="github" revision="jb" />
   <project path="libcore" name="SlimRoms/platform_libcore" remote="github" revision="jb4.3" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
@@ -377,7 +365,6 @@
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
-  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-10.2" />
 
   <!-- New Additions for Illusion -->
   <project path="external/Focal" name="CyanogenMod/android_external_Focal" remote="github" revision="cm-10.2" />

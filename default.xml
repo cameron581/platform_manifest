@@ -391,6 +391,7 @@
   <project path="packages/apps/Focal" name="CyanogenMod/android_packages_apps_Focal" remote="github" revision="cm-10.2" />
   <project path="packages/apps/HALO" name="ParanoidAndroid/HALO" remote="github" revision="jellybean" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="github" revision="cm-10.2" />
+  <project path="packages/apps/RoundR" name="IllusionProject/RoundR" remote="github" revision="jb" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="cm-10.2" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="github" revision="cm-10.2" />
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="github" revision="cm-10.2" />

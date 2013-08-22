@@ -259,7 +259,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="SlimRoms/hardware_ril" remote="github" revision="jb4.3" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
-  <project path="hardware/samsung" name="platform/hardware/samsung" remote="github" revision="cm-10.2" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-10.2" />
   <project path="kernel/samsung/d2" name="IllusionProject/android_kernel_samsung_d2" remote="github" revision="jb" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-10.2" />
   <project path="libcore" name="SlimRoms/platform_libcore" remote="github" revision="jb4.3" />

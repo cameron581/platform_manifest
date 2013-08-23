@@ -31,11 +31,12 @@
   <project path="device/samsung/d2tmo" name="IllusionProject/android_device_samsung_d2tmo" remote="github" revision="jb" />
   <project path="device/samsung/d2usc" name="IllusionProject/android_device_samsung_d2usc" remote="github" revision="jb" />
   <project path="device/samsung/d2vzw" name="IllusionProject/android_device_samsung_d2vzw" remote="github" revision="jb" />
+  <project path="device/samsung/i9300" name="IllusionProject/android_device_samsung_i9300" remote="github" revision="jb" />
   <project path="device/samsung/jf-common" name="IllusionProject/android_device_samsung_jf-common" remote="github" revision="jb" />
   <project path="device/samsung/jfltexx" name="IllusionProject/android_device_samsung_jfltexx" remote="github" revision="jb" />
   <project path="device/samsung/jflteatt" name="IllusionProject/android_device_samsung_jflteatt" remote="github" revision="jb" />
   <project path="device/samsung/jfltecan" name="IllusionProject/android_device_samsung_jfltecan" remote="github" revision="jb" />
-  <project path="device/samsung/jfltespr" name="IllusionProject/android_device_samsung_jfltespro" remote="github" revision="jb" />
+  <project path="device/samsung/jfltespr" name="IllusionProject/android_device_samsung_jfltespr" remote="github" revision="jb" />
   <project path="device/samsung/jfltetmo" name="IllusionProject/android_device_samsung_jfltetmo" remote="github" revision="jb" />
   <project path="device/samsung/jfltevzw" name="IllusionProject/android_device_samsung_jfltevzw" remote="github" revision="jb" />
   <project path="device/samsung/msm8960-common" name="IllusionProject/android_device_samsung_msm8960-common" remote="github" revision="jb" />

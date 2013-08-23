@@ -24,6 +24,7 @@
   <project path="development" name="SlimRoms/android_development" remote="github" revision="jb4.3" />
   <project path="device/common" name="SlimRoms/device_common" remote="github" revision="jb4.3" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
+  <project path="device/lge/mako" name="IllusionProject/android_device_lge_mako" remote="github" revision="jb" />
   <project path="device/samsung/d2-common" name="IllusionProject/android_device_samsung_d2-common" remote="github" revision="jb" />
   <project path="device/samsung/d2tmo" name="IllusionProject/android_device_samsung_d2tmo" remote="github" revision="jb" />
   <project path="device/samsung/msm8960-common" name="IllusionProject/android_device_samsung_msm8960-common" remote="github" revision="jb" />

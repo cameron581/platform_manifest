@@ -26,6 +26,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/lge/mako" name="IllusionProject/android_device_lge_mako" remote="github" revision="jb" />
   <project path="device/samsung/d2-common" name="IllusionProject/android_device_samsung_d2-common" remote="github" revision="jb" />
+  <project path="device/samsung/d2att" name="IllusionProject/android_device_samsung_d2att" remote="github" revision="jb" />
   <project path="device/samsung/d2tmo" name="IllusionProject/android_device_samsung_d2tmo" remote="github" revision="jb" />
   <project path="device/samsung/msm8960-common" name="IllusionProject/android_device_samsung_msm8960-common" remote="github" revision="jb" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-10.2" />

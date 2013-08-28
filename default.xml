@@ -395,12 +395,10 @@
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-10.2" />
 
   <!-- New Additions for Illusion -->
-  <project path="external/Focal" name="CyanogenMod/android_external_Focal" remote="github" revision="cm-10.2" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-10.2" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" remote="github" revision="cm-10.2" />
   <project path="packages/apps/DSPManager" name="IllusionProject/android_packages_apps_DSPManager" remote="github" revision="jb" />
   <project path="packages/apps/FileManager" name="IllusionProject/android_packages_apps_FileManager" remote="github" revision="jb" />
-  <project path="packages/apps/Focal" name="CyanogenMod/android_packages_apps_Focal" remote="github" revision="cm-10.2" />
   <project path="packages/apps/HALO" name="ParanoidAndroid/HALO" remote="github" revision="jellybean" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="github" revision="cm-10.2" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="cm-10.2" />

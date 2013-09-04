@@ -390,7 +390,7 @@
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
-  <project path="vendor/samsung" name="SlimRoms/proprietary_vendor_samsung" remote="github" revision="jb4.3" />
+  <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" remote="github" revision="jb3" />
 
   <!-- New Additions for Illusion -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-10.2" />

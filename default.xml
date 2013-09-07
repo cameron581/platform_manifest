@@ -320,7 +320,7 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="github" revision="cm-10.2" />
-  <project path="packages/providers/ContactsProvider" name="CYanogenMod/android_packages_providers_ContactsProvider" remote="github" revision="cm-10.2" />
+  <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="github" revision="cm-10.2" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" revision="cm-10.2" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/MediaProvider" name="IllusionProject/android_packages_providers_MediaProvider" remote="github" revision="jb" />
@@ -391,7 +391,7 @@
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
-  <project path="vendor/samsung" name="SlimRoms/proprietary_vendor_samsung" remote="github" revision="jb4.3" />
+  <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" remote="github" revision="jb3" />
 
   <!-- New Additions for Illusion -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-10.2" />

@@ -57,7 +57,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="IllusionProject/android_external_bluetooth_bluedroid" remote="github" revision="jb" />
+  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" remote="github" revision="cm-10.2" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-10.2" />

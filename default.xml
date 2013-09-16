@@ -11,6 +11,10 @@
   <default revision="refs/tags/android-4.3_r2.2"
            remote="aosp"
            sync-j="4" />
+           
+  <remote  name="cr"
+           fetch="https://github.com/CarbonDev/"
+           sync-j="4" />
 
   <project path="build" name="IllusionProject/android_build" remote="github" revision="jb" >
     <copyfile src="core/root.mk" dest="Makefile" />

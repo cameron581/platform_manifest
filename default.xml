@@ -28,27 +28,8 @@
   <project path="development" name="CarbonDev/android_development" remote="github" revision="jb3" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.2" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
-  <project path="device/lge/mako" name="IllusionProject/android_device_lge_mako" remote="github" revision="jb" />
-  <project path="device/samsung/d2-common" name="IllusionProject/android_device_samsung_d2-common" remote="github" revision="jb" />
-  <project path="device/samsung/d2att" name="IllusionProject/android_device_samsung_d2att" remote="github" revision="jb" />
-  <project path="device/samsung/d2mtr" name="IllusionProject/android_device_samsung_d2mtr" remote="github" revision="jb" />
-  <project path="device/samsung/d2spr" name="IllusionProject/android_device_samsung_d2spr" remote="github" revision="jb" />
-  <project path="device/samsung/d2tmo" name="IllusionProject/android_device_samsung_d2tmo" remote="github" revision="jb" />
-  <project path="device/samsung/d2usc" name="IllusionProject/android_device_samsung_d2usc" remote="github" revision="jb" />
-  <project path="device/samsung/d2vzw" name="IllusionProject/android_device_samsung_d2vzw" remote="github" revision="jb" />
-  <project path="device/samsung/i9300" name="IllusionProject/android_device_samsung_i9300" remote="github" revision="jb" />
-  <project path="device/samsung/jf-common" name="IllusionProject/android_device_samsung_jf-common" remote="github" revision="jb" />
-  <project path="device/samsung/jfltexx" name="IllusionProject/android_device_samsung_jfltexx" remote="github" revision="jb" />
-  <project path="device/samsung/jflteatt" name="IllusionProject/android_device_samsung_jflteatt" remote="github" revision="jb" />
-  <project path="device/samsung/jfltecan" name="IllusionProject/android_device_samsung_jfltecan" remote="github" revision="jb" />
-  <project path="device/samsung/jfltespr" name="IllusionProject/android_device_samsung_jfltespr" remote="github" revision="jb" />
-  <project path="device/samsung/jfltetmo" name="IllusionProject/android_device_samsung_jfltetmo" remote="github" revision="jb" />
-  <project path="device/samsung/jfltevzw" name="IllusionProject/android_device_samsung_jfltevzw" remote="github" revision="jb" />
-  <project path="device/samsung/msm8960-common" name="IllusionProject/android_device_samsung_msm8960-common" remote="github" revision="jb" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-10.2" />
-  <project path="device/samsung/smdk4412-common" name="IllusionProject/android_device_samsung_smdk4412-common" remote="github" revision="jb" />
-  <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="github" revision="cm-10.2" />
-  <project path="docs/source.android.com" name="platform/docs/source.android.com" />
+    <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" remote="github" revision="cm-10.2" />
@@ -270,15 +251,12 @@
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="github" revision="cm-10.2" groups="qcom" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="cm-10.2" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="github" revision="cm-10.2" />
-  <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" remote="github" revision="cm-10.2" groups="qcom_msm8960" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="github" revision="cm-10.2" groups="qcom" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" remote="github" revision="cm-10.2" groups="qcom" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="github" revision="cm-10.2" groups="qcom_wlan" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="cm-10.2" groups="pdk" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-10.2" />
-  <project path="kernel/samsung/d2" name="IllusionProject/android_kernel_samsung_d2" remote="github" revision="jb" />
-  <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="github" revision="cm-10.2" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="github" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
@@ -396,7 +374,6 @@
 
   <!-- Vendors for Illusion -->
   <project path="vendor/illusion" name="IllusionProject/android_vendor_illusion" remote="github" revision="jb" />
-  <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" remote="github" revision="jb3" />
 
   <!-- New Additions for Illusion -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="github" revision="cm-10.2" />

@@ -25,7 +25,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-10.2" groups="pdk" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="CarbonDev/android_dalvik" remote="github" revision="jb3" />
-  <project path="development" name="CarbonDev/android_development" remote="github" revision="jb3" />
+  <project path="development" name="SlimRoms/android_development" remote="github" revision="jb4.3" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.2" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-10.2" />
@@ -227,7 +227,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="SlimRoms/frameworks_opt_timezonepicker" remote="github" revision="jb4.3" />
-  <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="github" revision="cm-10.2" />
+  <project path="frameworks/opt/telephony" name="SlimRoms/android_frameworks_opt_telephony" remote="github" revision="jb4.3" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="github" revision="cm-10.2" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" remote="github" revision="cm-10.2" />

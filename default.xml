@@ -400,16 +400,6 @@
   <!--CyanogenMod SamsungServiceMode -->
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-10.2" />
   
-  <!--Skyrocket Device Files-->
-  <project name="SlimRoms/device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="jb4.3"/>
-  <project name="SlimRoms/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="jb4.3"/>
-  <project name="SlimRoms/device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="jb4.3"/>
-  <project name="CyanogenMod/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="cm-10.2"/>
-  <project name="SlimRoms/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="jb4.3"/>
-  <project name="SlimRoms/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="jb4.3"/>
-  <project name="SlimRoms/hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="github" revision="jb4.3"/>
-  <project name="SlimRoms/hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="jb4.3"/>
-
   <!--Hercules Device Files-->
   <project name="SlimRoms/device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="jb4.3"/>
   <project name="SlimRoms/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="jb4.3"/>

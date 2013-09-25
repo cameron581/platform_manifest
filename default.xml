@@ -408,5 +408,5 @@
   <project name="SlimRoms/hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="jb4.3"/>
 
 <!--Hercules Device Files-->
-  <project name="SlimRoms/device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="jb4.3"/>
+  <project name="s2heros/device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="cm-10.2"/>
 </manifest>
